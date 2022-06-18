@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "encurtador de links utilizando uma api não oficial do bitly",
   "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "smokeeaasd",
   "license": "ISC",
   "dependencies": {
