@@ -6,7 +6,7 @@ class Encurtador
 
 		const bitly = new BitlyClient(access_token);
 		const response = await bitly.shorten(url);
-		return response.link;
+		return response.link
 	}
 }
 
